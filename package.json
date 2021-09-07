@@ -1,0 +1,11 @@
+{
+  "name": "guess-number",
+  "version": "1.0.0",
+  "description": "student project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dasha",
+  "license": "ISC"
+}
